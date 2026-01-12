@@ -44,8 +44,10 @@ Make sure you have **Python 3** installed on your system.
 You can copy and use the following commands:
 
 ```bash
-python3 PortScanner.py -t 192.168.1.1 (Example)
-python3 PortScanner.py -p 192.168.1.1-100 (Range Example)
+ python3 portScanner.py -t 192.168.1.1 -p 1-100
+ python3 portScanner.py -t 192.168.1.1 -p 80
+ python3 portScanner.py -t scanme.nmap.org -p 22,80,443
+
 ```
 
 ---
