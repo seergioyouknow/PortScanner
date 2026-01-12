@@ -61,15 +61,6 @@ This tool requires **Python 3** and the following dependency:
 pip3 install termcolor
 
 ---
-
-## 📂 Project Structure
-
-```
-PortScanner/
-│── PortScanner.py
-│── README.md
-```
-
 ---
 
 ## 🛡️ Legal Notice
