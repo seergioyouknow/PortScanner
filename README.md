@@ -49,6 +49,16 @@ You can copy and use the following commands:
  python3 portScanner.py -t scanme.nmap.org -p 22,80,443
 
 ```
+## 📦 Dependencies
+
+This tool requires **Python 3** and the following dependency:
+
+- `termcolor`
+
+### Install dependency
+
+```bash
+pip3 install termcolor
 
 ---
 
