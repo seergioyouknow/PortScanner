@@ -61,7 +61,6 @@ This tool requires **Python 3** and the following dependency:
 pip3 install termcolor
 
 ---
----
 
 ## 🛡️ Legal Notice
 
